@@ -16,3 +16,4 @@
     Scenario: Modulus parameter
       When "9"/"4"
 
+    https://www.oreilly.com/library/view/the-ruby-programming/9780596516178/ch04s05.html
