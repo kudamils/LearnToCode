@@ -25,7 +25,7 @@ gem 'net-ssh'
 gem 'nokogiri', '~> 1.7', '>= 1.7.0.1'
 gem 'parallel_tests', group: %i[development test]
 gem 'pry', '~> 0.10.4'
-gem 'rake', '12.1.0'
+gem 'rake', '12.3.3'
 gem 'report_builder'
 gem 'rspec', '~> 3.5'
 gem 'rspec-retry', '~> 0.4.5'

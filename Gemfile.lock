@@ -184,7 +184,7 @@ GEM
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rainbow (3.0.0)
-    rake (12.1.0)
+    rake (12.3.3)
     reek (5.3.1)
       codeclimate-engine-rb (~> 0.4.0)
       kwalify (~> 0.7.0)
@@ -311,7 +311,7 @@ DEPENDENCIES
   pronto-reek
   pronto-rubocop
   pry (~> 0.10.4)
-  rake (= 12.1.0)
+  rake (= 12.3.3)
   report_builder
   rspec (~> 3.5)
   rspec-retry (~> 0.4.5)
