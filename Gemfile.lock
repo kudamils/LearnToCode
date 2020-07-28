@@ -121,7 +121,7 @@ GEM
     jaro_winkler (1.5.2)
     jschematic (0.1.0)
       addressable
-    json (1.8.5)
+    json (2.3.0)
     jsonpath (0.8.12)
       multi_json
       to_regexp (~> 0.2.1)
@@ -298,7 +298,7 @@ DEPENDENCIES
   geckodriver-helper (~> 0.0.5)
   headless (~> 2.2, >= 2.2.3)
   httparty (= 0.14.0)
-  json (= 1.8.5)
+  json (= 2.3.0)
   jsonpath (~> 0.8.7)
   multipart-post
   mysql2
