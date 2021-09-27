@@ -22,7 +22,7 @@ gem 'multipart-post'
 gem 'mysql2'
 gem 'net-scp'
 gem 'net-ssh'
-gem 'nokogiri', '~> 1.7', '>= 1.7.0.1'
+gem 'nokogiri', '~> 1.12'
 gem 'parallel_tests', group: %i[development test]
 gem 'pry', '~> 0.10.4'
 gem 'rake', '12.1.0'
