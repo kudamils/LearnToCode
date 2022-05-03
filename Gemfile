@@ -30,7 +30,7 @@ gem 'report_builder'
 gem 'rspec', '~> 3.5'
 gem 'rspec-retry', '~> 0.4.5'
 gem 'selenium-webdriver', '~> 3.12'
-gem 'sinatra', '1.3.1'
+gem 'sinatra', '2.2.0'
 gem 'site_prism', '~> 2.17', '>= 2.17.1'
 gem 'wannabe_bool', '~> 0.7.1'
 
